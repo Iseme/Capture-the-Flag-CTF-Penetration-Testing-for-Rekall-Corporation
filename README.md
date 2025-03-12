@@ -1,7 +1,7 @@
 # Capture-the-Flag-CTF-Penetration-Testing-for-Rekall-Corporation
 I participated in a Capture the Flag (CTF) competition designed to apply offensive security skills acquired during my cybersecurity training. The project involved a simulated penetration testing engagement for a fictional organization, Rekall Corporation. I worked in a team to identify and exploit vulnerabilities across the various systems.
 
-# Overview
+# Overview:
 Collaborated with a team to conduct a comprehensive penetration test on Rekall Corporation's web application, Linux servers, and Windows servers. Utilized various exploitation techniques to identify and exploit vulnerabilities, including Nmap, Nessus, and Metasploit, successfully capturing multiple flags as part of a competitive CTF environment. Developed a detailed penetration testing summary report documenting findings and recommendations for enhancing security posture.
 
 # Key Highlights:
