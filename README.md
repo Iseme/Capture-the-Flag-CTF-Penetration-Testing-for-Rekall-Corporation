@@ -1,0 +1,2 @@
+# Capture-the-Flag-CTF-Penetration-Testing-for-Rekall-Corporation
+I participated in a Capture the Flag (CTF) competition designed to apply offensive security skills acquired during my cybersecurity training. The project involved a simulated penetration testing engagement for a fictional organization, Rekall Corporation. I worked in a team to identify and exploit vulnerabilities across the various systems.
